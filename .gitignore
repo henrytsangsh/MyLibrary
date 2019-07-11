@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Additional files to ignore
+.DS_Store
 BaseDerivedClassFramework/.DS_Store
